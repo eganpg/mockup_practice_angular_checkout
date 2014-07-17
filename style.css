@@ -1,0 +1,98 @@
+
+p {
+	display: inline-block;
+}
+img {
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+!#headerlogo {
+	!width: 100px;
+}
+
+.logo {
+	display: inline-block;
+}
+
+#help {
+	float: right;
+}
+
+.main_container {
+
+
+}
+.container {
+	height: 915px;
+}
+.column_header {
+	background: #3E8754;
+	color: white;
+	text-align: center;
+	width: 30%;
+	padding: 1px;
+}
+
+.column_body  {
+	text-align: center;
+	width: 30%;
+	background: #F4F4F4;
+	height: 100%;
+	
+}
+
+input {
+	width: 80%;
+	height: 30px;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 5px;
+}
+
+.column_body p {
+	display: inline-block;
+	margin: 0px, 0px, 10px, 0px;
+
+}
+.checkoutasguest input {
+	display: inline-block;
+	width: 50px;
+	margin-top: 10px;
+}
+
+hr {
+	width: 80%;
+	color: black;
+	height: 3px;
+}
+.nameinput {
+	width: 35%;
+	display: inline-block;
+}
+.cityinput {
+	width: 35%;
+	float: left;
+	margin-left: 9%;
+	display: inline-block;
+}
+
+.zipinput {
+	width: 20%;
+	float: right;
+	margin-right: 9%;
+	display: inline-block;
+}
+
+.continue {
+	width:60%;
+	height: 50px;
+	margin: 10px;
+}
+
+footer {
+	background: #3E8754;
+	height: 60px;
+}
